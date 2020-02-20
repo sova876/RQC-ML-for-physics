@@ -9,3 +9,6 @@ Some useful links:
 Tutorials:
   - Jupyter Notebook for beginners https://www.dataquest.io/blog/jupyter-notebook-tutorial/ (If you already have anaconda installed skip                                                                                                installation section in this tutorial)
   - Numpy tutorial https://www.youtube.com/watch?v=AAS8yoKuK7M
+
+References:
+  - Python Numpy Intro.ipynb is taken from https://github.com/joeyajames/Python
